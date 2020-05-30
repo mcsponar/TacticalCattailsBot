@@ -10,5 +10,5 @@ Discord bot for Last Oasis
 ### Crafting interface
 ```
 !craft item <item name> should return a list of materials
-!craft help should list 
+!craft command.help should list 
 ```
